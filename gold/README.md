@@ -5,17 +5,14 @@ if you run one of the codes and get this: ![image](https://user-images.githubuse
 
 
 # getGold.js
-Open console (ctrl + shift + j) and pase the following:
+Open console (ctrl + shift + j) and paste the following:
 ```js
 fetch("https://raw.githubusercontent.com/glixzzy/blooket-cheat/main/gold/getGold.js").then((res) => res.text().then((t) => eval(t)))
 ```
 
 # chest-ESP.js
-you can only run this code when you are on the prize page, where you see 3 chests and then you should run the code and stay in the console.
-
-Once you run the code it should give you an alert: ![image](https://user-images.githubusercontent.com/73669084/134757157-1cfc0876-e546-4eda-b8d2-b9a87d1c9d5f.png)
-
-sorry for the shit display for chest esp :(
+click the bookmark, and you should get a popup saying chest ESP is enabled
+it'll tell you the values under the boxes: ![image](https://user-images.githubusercontent.com/77250850/137237947-558bb9c2-9a97-4502-a05d-c02f4cf0c046.png)
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
